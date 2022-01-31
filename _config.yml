@@ -18,36 +18,36 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: A Bhaskara Ram                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: A Developer, Hacker and Techie from India   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A robust and most intelligent person in internet, contributong to the most internet making softwares and projects
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: github_username             # change to your github username
+  username: bhaskarvilles             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: bhaskarvilles            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Allam_Bhaskara_Ram
+  email: bhaskar@parrotsec.in             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/bhaskarvilles      # change to your twitter homepage
+    - https://github.com/bhaskarvilles       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/bhaskarvilles
+    - https://www.linkedin.com/in/bhaskarvilles
+    - https://www.instagram.com/bhaskarvilles
+    - https://t.me/bhaskarvilles
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
